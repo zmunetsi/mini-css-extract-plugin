@@ -273,7 +273,7 @@ Default: `true`
 
 Allows to enable/disable the runtime generation.
 CSS will be still extracted and can be used for a custom loading methods.
-For example, you can use [assets-webpack-plugin](https://github.com/ztoben/assets-webpack-plugin) to retreive them then use your own runtime code to download assets when needed.
+For example, you can use [assets-webpack-plugin](https://github.com/ztoben/assets-webpack-plugin) to retrieve them then use your own runtime code to download assets when needed.
 
 `true` to skip.
 
